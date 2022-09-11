@@ -8,3 +8,4 @@ timer(deadline);
 
 import './modules/accordion.js';
 import './modules/burger.js';
+import './modules/fly.js';
